@@ -1,5 +1,10 @@
 # DocPDFHub
 
+<p align="center">
+  <img src="./A_promotional_banner_for_DocPDFHub_has_a_dark_blue.png" width="100%" alt="DocPDFHub Banner">
+</p>
+
+
 DocPDFHub is a collection of fast, secure and browser-based PDF tools — including Merge PDF, Split PDF, Compress PDF, PDF to JPG, Word to PDF, and PDF to Word.
 
 All processing happens 100% locally in the user’s browser, ensuring complete privacy with no file uploads or server-side storage.
