@@ -1,7 +1,7 @@
 # DocPDFHub
 
 <p align="center">
-  <img src="./A_promotional_banner_for_DocPDFHub_has_a_dark_blue.png" width="100%" alt="DocPDFHub Banner">
+  <img src="./banner.png" width="100%" alt="DocPDFHub Banner">
 </p>
 
 
